@@ -1,6 +1,8 @@
 # iranaian_number_validation
 
-A new Flutter package project.
+A new Flutter package project for phonenumber and nationalId validation
+
+یک پکیج برای اعتبارسنجی کدملی و شماره تلفن در فرمت های استاندارد ایران 
 
 ## Getting Started
 
